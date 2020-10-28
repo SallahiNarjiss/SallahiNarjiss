@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/track/1FmPCNnnds4GVMlU25T7OE" alt="Narjiss Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Narjiss Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
