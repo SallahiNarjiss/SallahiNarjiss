@@ -4,8 +4,7 @@
 
 ## I'm an Engineering Student in Data Science,and I am passionate about Entrepreneurship !!
 
-- 🔭 I’m looking for an internship in Data science  !
-- 🌱 I’m currently learning everything ⚡
+- 🔭I’m currently learning everything ⚡
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
