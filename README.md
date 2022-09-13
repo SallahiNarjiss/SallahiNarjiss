@@ -1,11 +1,9 @@
-### Hi there, I'm Narjiss Sallahi !  👋
+### Hi there, I'm Narjiss !  👋
 
 
-
-## I'm an Engineering Student in Data Science,and I am passionate about Entrepreneurship !!
 
 - 🔭I’m currently learning everything ⚡
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Spotify Playing 🎧
